@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/tomeumayol/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tmayolgomila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://tomeumayol.online"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  </a>
 </p>
 
 ---
@@ -21,7 +21,6 @@ I build software across every layer of the product: frontend, backend, databases
 - 👯 Open to collaborating on **naval and industrial software** projects
 - 📚 Always learning: recently exploring how AI tools (Claude, Cursor) fit into the daily dev workflow
 - 💬 Ask me about **Vue 3, Python, industrial integration, or full-stack architecture**
-- 🌐 More of my projects at [tomeumayol.online](https://tomeumayol.online)
 - 📫 Reach me at **tmayolgomila@gmail.com**
 
 ---
@@ -61,9 +60,3 @@ I build software across every layer of the product: frontend, backend, databases
 
 **Also:** WebSockets · REST APIs · Modbus · OPC UA · PWA · Cursor · Claude
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="150" />
-</p>
